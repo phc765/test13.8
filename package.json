@@ -18,3 +18,5 @@
     "vite": "^6.2.0"
   }
 }
+npm install   # Cài dependency
+npm run build # Tạo thư mục dist/ chứa file tĩnh
